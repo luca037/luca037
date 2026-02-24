@@ -49,7 +49,9 @@
 | --- | --- | --- | --- |
 | [SimpleSimplex](https://github.com/luca037/SimpleSimplex) | *Implementation of Simplex algorithm, Dual Simplex and Cutting plane (solver for Operation Research 1 exam).* | ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) | ![Optimization](https://img.shields.io/badge/Optimization-FF6F00?style=flat) |
 | [StrassenAlgorithm](https://github.com/luca037/Strassen-Algorithm) | *Implementation of the Strassen algorithm in C language. Comparison between the definition algorithm (recursive version) and the Strassen algorithm.* | ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) | ![Optimization](https://img.shields.io/badge/Optimization-FF6F00?style=flat) |
-|
+| [Articles Parser](https://github.com/luca037/Progetto_IdS_Go) | *Porting of [this](https://github.com/GruppoPuntoPunto/Progetto_IdS) project from Java to Go.* | ![Go](https://img.shields.io/badge/Go-1D8C8A?style=flat&logo=go&logoColor=white) | ![Software Engineering](https://img.shields.io/badge/Software%20Engineering-4CAF50?style=flat) |
+| [Pomo Timer](https://github.com/luca037/pomo_timer) | *A simple pomodoro timer implemented with `curses.h`.* | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) | ![Software Engineering](https://img.shields.io/badge/Software%20Engineering-4CAF50?style=flat) |
+| [RandomRecipes](https://github.com/luca037/RandomRecipes) | *Terminal application. Recepies are take from [giallozafferano](https://www.giallozafferano.it/) (HTML parsing) and presented in the terminal using `curses.h`.* | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/Go-1D8C8A?style=flat&logo=go&logoColor=white) | ![Software Engineering](https://img.shields.io/badge/Software%20Engineering-4CAF50?style=flat) |
 
 </div>
 
