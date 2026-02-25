@@ -4,7 +4,20 @@
 
 <div align="center">
   
-**Table 1:** All the projects that were part of an exam.
+**Table 1:** University notes.
+
+| **Project** | **Description** | **Language** | **Keywords** | **Academic Year** |
+| --- | --- | --- | --- | --- |
+| [UnipdAppunti](https://github.com/luca037/UnipdAppunti) | *All the notes I took during my 5 years of university (in italian).* | ![LaTex](https://img.shields.io/badge/LaTex-FFFFFF?style=flat&logo=latex&logoColor=black) |  ![Fatica](https://img.shields.io/badge/Fatica-cc0000?style=flat) | from 2021 to 2026 |
+| [FormularioFDT](https://github.com/luca037/FormularioFDT) | Small cheet sheet for the Telecomunications course (in italian).* | ![LaTex](https://img.shields.io/badge/LaTex-FFFFFF?style=flat&logo=latex&logoColor=black) | / | / |
+
+</div>
+
+---
+
+<div align="center">
+  
+**Table 2:** All the projects that were part of an exam.
 
 | **Project** | **Description** | **Language** | **Keywords** | **Academic Year** |
 | --- | --- | --- | --- | --- |
@@ -26,7 +39,7 @@
 
 <div align="center">
   
-**Table 2:** Some laboratories.
+**Table 3:** Some laboratories.
   
 | **Project** | **Description** | **Language** | **Keywords** | **Academic Year** |
 | --- | --- | --- | --- | --- |
@@ -43,7 +56,7 @@
 
 <div align="center">
 
-**Table 3:** Small projects.
+**Table 4:** Small projects.
 
 | **Project** | **Description** | **Language** | **Keywords** |
 | --- | --- | --- | --- |
