@@ -62,7 +62,7 @@
 
 | **Project** | **Description** | **Language** | **Keywords** |
 | --- | --- | --- | --- |
-| [Snake-RL-PPO](https://github.com/luca037/Snake-RL) | *Improved version of [this](https://github.com/luca037/Snake-RL) other project.* | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-8A2BE2?style=flat) | 
+| [Snake-RL-PPO](https://github.com/luca037/Snake-RL-PPO) | *Improved version of [this](https://github.com/luca037/Snake-RL) other project.* | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-8A2BE2?style=flat) | 
 | [tinyGPT](https://github.com/luca037/tinyGPT) | *Implementation of GPT(2) from scratch.* | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![NLP](https://img.shields.io/badge/NLP-A85240?style=flat) |
 | [SimpleSimplex](https://github.com/luca037/SimpleSimplex) | *Implementation of Simplex algorithm, Dual Simplex and Cutting plane (solver for Operation Research 1 exam).* | ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) | ![Optimization](https://img.shields.io/badge/Optimization-FF6F00?style=flat) |
 | [StrassenAlgorithm](https://github.com/luca037/Strassen-Algorithm) | *Implementation of the Strassen algorithm in C language. Comparison between the definition algorithm (recursive version) and the Strassen algorithm.* | ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) | ![Optimization](https://img.shields.io/badge/Optimization-FF6F00?style=flat) |
