@@ -21,6 +21,7 @@
 
 | **Project** | **Description** | **Language** | **Keywords** | **Academic Year** |
 | --- | --- | --- | --- | --- |
+| [anomaly-instruct-pix2pix](https://github.com/luca037/anomaly-instruct-pix2pix) | *Fine-tuning and aligning Instruct-Pix2Pix to generate anomalous images.* | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF1493?style=flat) ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-8A2BE2?style=flat) ![Diffusers](https://img.shields.io/badge/Diffusers-FFD21E?style=flat&logo=huggingface&logoColor=black) | 2025/26 |
 | [ACS-MIP](https://github.com/luca037/ACS-MIP) | *Implementation of the Alternating Criteria Search heuristic for Mixed Integer Linear Programming problems (Bachelor's thesis).* | ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) | ![CPLEX](https://img.shields.io/badge/CPLEX-FFFFFF?style=flat&logo=cplex&logoColor=black) ![Optimization](https://img.shields.io/badge/Optimization-FF6F00?style=flat) ![MIP](https://img.shields.io/badge/MIP-FF6F00?style=flat) | 2023/24 |
 
 </div>
